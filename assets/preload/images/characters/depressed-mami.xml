@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="depressed-mami.png">
+<SubTexture name="depressed-mami idle0000" x="1689" y="1926" width="563" height="958" frameX="-48" frameY="-11" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami idle0001" x="2252" y="1926" width="564" height="958" frameX="-48" frameY="-11" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami idle0002" x="0" y="3843" width="566" height="951" frameX="-48" frameY="-18" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami idle0003" x="4486" y="2848" width="559" height="943" frameX="-56" frameY="-26" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami idle0004" x="566" y="3843" width="576" height="931" frameX="-39" frameY="-38" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami down0000" x="4486" y="953" width="560" height="948" frameX="-51" frameY="-21" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami down0001" x="4486" y="0" width="561" height="953" frameX="-49" frameY="-16" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami left0000" x="3367" y="0" width="561" height="958" frameX="-44" frameY="-11" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami left0001" x="1679" y="0" width="562" height="959" frameX="-50" frameY="-10" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami right0000" x="3367" y="958" width="561" height="957" frameX="-62" frameY="-12" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami right0001" x="0" y="967" width="562" height="959" frameX="-50" frameY="-10" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami up0000" x="559" y="0" width="561" height="965" frameX="-48" frameY="-4" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami up0001" x="562" y="967" width="563" height="959" frameX="-47" frameY="-10" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami down miss0000" x="3928" y="956" width="558" height="936" frameX="-52" frameY="-33" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami down miss0001" x="4486" y="1901" width="558" height="947" frameX="-52" frameY="-22" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami left miss0000" x="1679" y="2885" width="564" height="956" frameX="-47" frameY="-13" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami left miss0001" x="2243" y="2885" width="557" height="956" frameX="-54" frameY="-13" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami right miss0000" x="2800" y="2885" width="566" height="956" frameX="-45" frameY="-13" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami right miss0001" x="3366" y="2885" width="557" height="956" frameX="-54" frameY="-13" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami up miss0000" x="0" y="0" width="559" height="967" frameX="-49" frameY="-2" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami up miss0001" x="1120" y="0" width="559" height="963" frameX="-49" frameY="-6" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0000" x="0" y="2885" width="563" height="958" frameX="-48" frameY="-11" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0001" x="3367" y="1915" width="558" height="957" frameX="-51" frameY="-12" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0002" x="563" y="2885" width="558" height="957" frameX="-51" frameY="-12" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0003" x="3928" y="0" width="558" height="956" frameX="-51" frameY="-13" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0004" x="1121" y="2885" width="558" height="957" frameX="-51" frameY="-12" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0005" x="1125" y="967" width="563" height="959" frameX="-48" frameY="-10" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0006" x="2241" y="0" width="563" height="959" frameX="-48" frameY="-10" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0007" x="2241" y="959" width="563" height="959" frameX="-48" frameY="-10" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0008" x="2804" y="0" width="563" height="959" frameX="-48" frameY="-10" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0009" x="2804" y="959" width="563" height="959" frameX="-48" frameY="-10" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0010" x="0" y="1926" width="563" height="959" frameX="-48" frameY="-10" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0011" x="563" y="1926" width="563" height="959" frameX="-48" frameY="-10" frameWidth="640" frameHeight="969" />
+<SubTexture name="depressed-mami gameover0012" x="1126" y="1926" width="563" height="959" frameX="-48" frameY="-10" frameWidth="640" frameHeight="969" />
+</TextureAtlas>

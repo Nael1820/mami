@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Holy.png">
+<SubTexture name="Holy down0000" x="2275" y="2079" width="571" height="1023" frameX="-48" frameY="-177" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy down0001" x="1707" y="2079" width="568" height="1025" frameX="-48" frameY="-175" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy idle0000" x="2242" y="0" width="563" height="1031" frameX="-48" frameY="-169" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy idle0001" x="2805" y="0" width="571" height="1028" frameX="-48" frameY="-172" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy idle0002" x="3934" y="0" width="577" height="1019" frameX="-48" frameY="-181" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy idle0003" x="3934" y="2036" width="555" height="1013" frameX="-76" frameY="-187" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy left0000" x="0" y="2079" width="570" height="1027" frameX="-40" frameY="-173" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy left0001" x="1121" y="1043" width="562" height="1032" frameX="-47" frameY="-168" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy right0000" x="2805" y="1028" width="561" height="1028" frameX="-65" frameY="-172" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy right0001" x="558" y="1043" width="563" height="1033" frameX="-52" frameY="-167" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy up0000" x="558" y="0" width="560" height="1037" frameX="-41" frameY="-163" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy up0001" x="1118" y="0" width="562" height="1036" frameX="-44" frameY="-164" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy up0002" x="1680" y="0" width="562" height="1036" frameX="-44" frameY="-164" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy left miss0000" x="1139" y="2079" width="568" height="1026" frameX="-47" frameY="-174" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy left miss0001" x="1683" y="1043" width="558" height="1026" frameX="-59" frameY="-174" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy down miss0000" x="3934" y="1019" width="558" height="1017" frameX="-60" frameY="-183" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy down miss0001" x="3376" y="0" width="558" height="1022" frameX="-60" frameY="-178" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy right miss0000" x="570" y="2079" width="569" height="1027" frameX="-59" frameY="-173" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy right miss0001" x="2242" y="1031" width="558" height="1027" frameX="-59" frameY="-173" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy up miss0000" x="0" y="0" width="558" height="1043" frameX="-42" frameY="-157" frameWidth="800" frameHeight="1200" />
+<SubTexture name="Holy up miss0001" x="0" y="1043" width="558" height="1036" frameX="-42" frameY="-164" frameWidth="800" frameHeight="1200" />
+</TextureAtlas>
