@@ -1,0 +1,26 @@
+{
+	"storyName": "inner demons",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "flower",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"phantasm",
+			"sadmami",
+			[
+				255,
+				241,
+				150
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "chachs"
+}
