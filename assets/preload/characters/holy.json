@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "Holy idle"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Holy left"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Holy down"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Holy up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 16,
+			"name": "Holy left miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singDOWNmiss",
+			"fps": 16,
+			"name": "Holy down miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 16,
+			"name": "Holy up miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"offsets": [
+				-30,
+				-10
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 16,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Holy right miss"
+		},
+		{
+			"offsets": [
+				-50,
+				-12
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Holy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/holy",
+	"position": [
+		-60,
+		-480
+	],
+	"healthicon": "holymami",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		241,
+		150
+	],
+	"camera_position": [
+		30,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

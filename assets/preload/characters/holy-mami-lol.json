@@ -1,0 +1,140 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "holy-mami-lol idle",
+			"indices": [
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 19,
+			"name": "holy-mami-lol sing left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-17
+			],
+			"anim": "singDOWNmiss",
+			"fps": 19,
+			"name": "holy-mami-lol sing down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				17
+			],
+			"anim": "singUPmiss",
+			"fps": 19,
+			"name": "holy-mami-lol sing up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 19,
+			"name": "holy-mami-lol sing right miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-38,
+				-1
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 19,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "holy-mami-lol sing right"
+		},
+		{
+			"offsets": [
+				35,
+				4
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 19,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "holy-mami-lol sing left"
+		},
+		{
+			"offsets": [
+				0,
+				-17
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 19,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "holy-mami-lol sing down"
+		},
+		{
+			"offsets": [
+				-9,
+				17
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 19,
+			"anim": "singUP",
+			"loop": false,
+			"name": "holy-mami-lol sing up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/holy-mami-lol",
+	"position": [
+		-930,
+		-930
+	],
+	"healthicon": "holy",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		241,
+		150
+	],
+	"camera_position": [
+		-740,
+		780
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

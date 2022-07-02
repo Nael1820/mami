@@ -1,0 +1,196 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "depressed-mami idle",
+			"indices": [
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "depressed-mami left",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "depressed-mami down",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "depressed-mami up",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "depressed-mami right",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"offsets": [
+				26,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFTmiss",
+			"indices": [
+				0,
+				1
+			],
+			"name": "depressed-mami left miss"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWNmiss",
+			"indices": [
+				0,
+				1
+			],
+			"name": "depressed-mami down miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUPmiss",
+			"indices": [
+				0,
+				1
+			],
+			"name": "depressed-mami up miss"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				0,
+				1
+			],
+			"name": "depressed-mami right miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "depressed-mami gameover"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				11,
+				12
+			],
+			"fps": 16,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "depressed-mami gameover"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5
+			],
+			"fps": 16,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "depressed-mami gameover"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depressed-mami",
+	"position": [
+		-60,
+		-250
+	],
+	"healthicon": "sadmami",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		241,
+		150
+	],
+	"camera_position": [
+		-50,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,196 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "sad-mami idle",
+			"indices": [
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 19,
+			"name": "sad-mami sing left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-7
+			],
+			"anim": "singDOWNmiss",
+			"fps": 19,
+			"name": "sad-mami sing down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				17
+			],
+			"anim": "singUPmiss",
+			"fps": 19,
+			"name": "sad-mami sing up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-8
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 19,
+			"name": "sad-mami sing right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				1
+			],
+			"anim": "firstDeath",
+			"fps": 19,
+			"name": "sad-mami gameover",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				1
+			],
+			"anim": "deathLoop",
+			"fps": 19,
+			"name": "sad-mami gameover",
+			"indices": [
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				1
+			],
+			"anim": "deathConfirm",
+			"fps": 19,
+			"name": "sad-mami gameover",
+			"indices": [
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4
+			]
+		},
+		{
+			"offsets": [
+				5,
+				4
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 19,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sad-mami sing left"
+		},
+		{
+			"offsets": [
+				-10,
+				-17
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 19,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sad-mami sing down"
+		},
+		{
+			"offsets": [
+				-9,
+				17
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 19,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sad-mami sing up"
+		},
+		{
+			"offsets": [
+				-8,
+				-1
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 19,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sad-mami sing right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/depressed-mami",
+	"position": [
+		-930,
+		-930
+	],
+	"healthicon": "sadmami",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		241,
+		150
+	],
+	"camera_position": [
+		-740,
+		780
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

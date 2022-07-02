@@ -1,0 +1,68 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 16,
+			"name": "gameover death",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "deathLoop",
+			"fps": 16,
+			"name": "gameover death",
+			"indices": [
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "deathConfirm",
+			"fps": 16,
+			"name": "gameover death",
+			"indices": [
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gameover",
+	"position": [
+		-50,
+		-240
+	],
+	"healthicon": "sadmami",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		241,
+		150
+	],
+	"camera_position": [
+		-50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
